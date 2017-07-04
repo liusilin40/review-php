@@ -2,7 +2,7 @@
 /**
 * @file preDefinedVariable.php
 * @brief 本文件是对“php手册-语言参考-预定义变量”部分的实践与理解
-* @author liusilin
+* @author 640
 * @version 1.0
 * @date 2017-06-28
  */
